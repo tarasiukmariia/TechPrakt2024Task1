@@ -1,0 +1,19 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+    background-color: #edeaef;
+    color: #000000;
+    margin: 20px;
+}
+
+.content img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 3px;
+
+}
+
+
+
+
+
+
