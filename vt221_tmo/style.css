@@ -1,10 +1,19 @@
-div.user {
-    border:1px solid black;
-    padding:10px;
+body {
+    font-family: "Times New Roman", sans-serif;
+    background-color: #edeaef;
+    color: #000000;
+    margin: 20px;
 }
-div.user div {
-    cursor: pointer;
+
+.content img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 3px;
+
 }
-div.user.selected {
-    background-color: rgba(212, 175, 222, 0.65);
-}
+
+
+
+
+
+
