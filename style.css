@@ -1,19 +1,27 @@
+
 body {
     font-family: "Times New Roman", sans-serif;
-    background-color: #edeaef;
+    background-color: #f0f0f0;
     color: #000000;
     margin: 20px;
 }
 
-.content img {
-    max-width: 50%;
-    height: auto;
-    border-radius: 3px;
 
+
+.panel:hover {
+    background-color: #f0f0f0;
+}
+
+.panel .header {
+    cursor: pointer;
 }
 
 
-
+.content img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 9px;
+}
 
 
 
