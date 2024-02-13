@@ -27,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "one",
     "last_opened_file_path": "C:/Users/miqvr/TechPrakt2024Task1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,6 +51,7 @@
       <workItem from="1706999675700" duration="322000" />
       <workItem from="1707836519631" duration="107000" />
       <workItem from="1707838751329" duration="107000" />
+      <workItem from="1707839644293" duration="1323000" />
     </task>
     <servers />
   </component>
